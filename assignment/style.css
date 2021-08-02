@@ -1,0 +1,27 @@
+.info {
+  background-color: lightgray;
+  color: red;
+  font-family: cursive;
+  text-align: center;
+}
+
+.subinfo{
+  background-color: coral;
+}
+header{
+  padding-left: 20px;
+}
+body{
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+.bikeAndText{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: solid;
+}
+img {
+ width: 100%;
+}
